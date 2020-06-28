@@ -493,7 +493,7 @@
             }
 
             .left-sec{
-                background-image: url('//cdn.jsdelivr.net/gh/icybest/cloudflare/images/bg-1x-mobile.png')!important;
+                background-image: url('https://cdn.jsdelivr.net/gh/icybest/cloudflare/images/bg-1x-mobile.png')!important;
             }
         }
 
@@ -521,7 +521,7 @@
             }
 
             .left-sec{
-                background-image: url('//cdn.jsdelivr.net/gh/icybest/cloudflare/images/bg-1x-tablet.png')!important;
+                background-image: url('https://cdn.jsdelivr.net/gh/icybest/cloudflare/images/bg-1x-tablet.png')!important;
             }
         }
 
@@ -532,7 +532,7 @@
         }
 
         .left-sec{
-            background-image: url('//cdn.jsdelivr.net/gh/icybest/cloudflare/images/bg-1x.jpg');
+            background-image: url('https://cdn.jsdelivr.net/gh/icybest/cloudflare/images/bg-1x.jpg');
             background-position: bottom;
             background-size: contain;
             background-repeat: no-repeat;
